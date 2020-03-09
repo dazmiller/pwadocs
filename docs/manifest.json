@@ -1,23 +1,23 @@
 {
-    "name": "PWA Docs",
-    "short_name": "PWA Docs",
+    "name": "SBAFM",
+    "short_name": "SBAFM",
     "start_url": "index.html",
     "display": "fullscreen",
     "scope": ".",
     "orientation":"portrait",
     "icons": [
       {
-        "src": "assets/icons/logo-36.png",
+        "src": "assets/icons/sbafm-36.png",
         "sizes": "36x36",
         "type": "image/png"
       },
       {
-        "src": "assets/icons/logo-192.png",
+        "src": "assets/icons/sbafm-192.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "assets/icons/logo-512.png",
+        "src": "assets/icons/sbafm-512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
