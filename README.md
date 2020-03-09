@@ -96,3 +96,5 @@ The complete PWA should be built and located in ./site/
 2. [Mkdoc Materil Customization](https://squidfunk.github.io/mkdocs-material/customization/)
 3. [Mkdocs Material Extensions](https://squidfunk.github.io/mkdocs-material/extensions/admonition/)
 4. [Workbox Manifest Guide](https://developers.google.com/web/tools/workbox/guides/get-started)
+
+Thanks to Snickdx/pwadocs for his great work
