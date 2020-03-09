@@ -1,15 +1,15 @@
 # Project information
-site_name: 'PWA Docs'
-site_description: 'A PWA wrapper for Material Design themed for MkDocs'
-site_author: 'Nicholas Mendez'
-site_url: 'https://github.com/Snickdx/pwadocs'
+site_name: 'SBAFM'
+site_description: 'SBAFM'
+site_author: 'Darren Miller'
+site_url: ''
 
 # Repository
-repo_name: 'snickdx/pwadocs'
-repo_url: 'https://github.com/Snickdx/pwadocs'
+repo_name: ''
+repo_url: ''
 
 # Copyright
-copyright: 'Copyright &copy; 2019 Nicholas Mendez'
+copyright: 'Copyright &copy; 2020 SBAFM'
 
 # Configuration
 theme:
