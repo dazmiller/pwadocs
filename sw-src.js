@@ -1,8 +1,8 @@
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js');
 
 workbox.setConfig({debug: false});
+workbox.precaching.precacheAndRoute(self.__WB_MANIFEST);
 
-workbox.precaching.precacheAndRoute([]);
 workbox.googleAnalytics.initialize();
 
 self.addEventListener('activate', event => {

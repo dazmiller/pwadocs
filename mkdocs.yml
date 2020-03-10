@@ -1,6 +1,6 @@
 # Project information
 site_name: 'SBAFM'
-site_description: 'SBAFM'
+site_description: 'SBAFM Procedures App'
 site_author: 'Darren Miller'
 site_url: ''
 
@@ -26,13 +26,7 @@ theme:
 # Customization
 extra:
   manifest: 'manifest.json'
-  social:
-    - type: 'github'
-      link: 'https://github.com/squidfunk'
-    - type: 'twitter'
-      link: 'https://twitter.com/squidfunk'
-    - type: 'linkedin'
-      link: 'https://linkedin.com/in/squidfunk'
+  
 
 # Google Analytics
 google_analytics:
@@ -74,4 +68,4 @@ plugins:
 #PWA Config
 use_directory_urls: false
 scope: "./"
-version: 1.0.0
+version: 1.0.1
