@@ -1,17 +1,11 @@
-# Welcome to PWA MkDocs
+<meta name="mobile-web-app-capable" content="yes">
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+## Welcome to SBAFM Procedures App
 
-## Commands
+For any questions please contact 
 
-* `mkdocs serve` - Start the live-reloading docs server.
-* `npm run build` - Build the documentation site.
+Darren Miller
 
-## Project layout
+[Call Me: 0424 608 973](tel:0424 608 973)
 
-    sw-src.js # Workbox service worker manifest
-    workbox-config.js # Workbox config file
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[SMS Me : 0424 608 973](sms:0424 608 973)
